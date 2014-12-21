@@ -14,3 +14,5 @@ $ python DelfinTest.py
 
 Integración Continua
 ---
+
+[![Build Status](https://travis-ci.org/madelein/Python-MiniProject.svg)](https://travis-ci.org/madelein/Python-MiniProject)
